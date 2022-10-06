@@ -31,7 +31,7 @@ const cartItems = [
       id: 5,
       title: "Three.jsでモダンウェブサイト構築講座",
       price: "14000",
-      img: "https://uploda1.ysklog.net/uploda/59060b3cd3.png",
+      img: "../images/redux-gainenzu-03.png",
       amount: 1,
     },
   ];
