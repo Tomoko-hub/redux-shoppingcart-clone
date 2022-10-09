@@ -33,7 +33,7 @@ function CartItem({id, title, price, img, amount}) {
                 dispatch(removeItem(id));
                 return;
               }
-              dispatch(decrease(id));
+                dispatch(decrease(id));
             }}
           >
             <MinusIcon />
