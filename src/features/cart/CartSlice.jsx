@@ -50,7 +50,7 @@ const cartSlice = createSlice({
     },
 });
 
-console.log(cartSlice);
+//console.log(cartSlice);
 
 export const { clearCart, removeItem , increase, decrease, calculateTotals } = cartSlice.actions;
 
